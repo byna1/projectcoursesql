@@ -1,0 +1,1 @@
+## Project from the SQL course from Teomewhy channel
