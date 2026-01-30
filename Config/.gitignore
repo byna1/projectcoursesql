@@ -1,0 +1,4 @@
+# ignoring archives with the following extensions while pushing to git
+
+*.csv,
+*.db
